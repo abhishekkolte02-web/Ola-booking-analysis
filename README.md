@@ -29,3 +29,5 @@ This project analyzes ride booking data using SQL and Power BI.
 ## Outcome
 This project demonstrates end-to-end data analysis:
 Data → SQL → Dashboard → Insights
+## Dashboard Preview
+<img width="1450" height="814" alt="image" src="https://github.com/user-attachments/assets/0df0a21d-d50b-49ed-8f49-7a5a90bb67e2" />
